@@ -25,3 +25,25 @@ def two_factor_aunteficator_code():
 
 
 two_factor_aunteficator_code()
+"""How it work:-
+You are 2FA --> 013940 , Sat Jun  4 01:53:48 2022
+You are 2FA --> 013940 , Sat Jun  4 01:53:53 2022
+You are 2FA --> 013940 , Sat Jun  4 01:53:58 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:03 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:08 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:13 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:18 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:23 2022
+You are 2FA --> 618399 , Sat Jun  4 01:54:28 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:33 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:38 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:43 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:48 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:53 2022
+You are 2FA --> 607248 , Sat Jun  4 01:54:58 2022
+You are 2FA --> 791157 , Sat Jun  4 01:55:03 2022
+You are 2FA --> 791157 , Sat Jun  4 01:55:08 2022
+You are 2FA --> 791157 , Sat Jun  4 01:55:13 2022
+You are 2FA --> 791157 , Sat Jun  4 01:55:18 2022
+You are 2FA --> 791157 , Sat Jun  4 01:55:23 2022
+"""
